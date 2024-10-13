@@ -1,6 +1,6 @@
-# Acurast App with External Dependencies Example
+# Acurast App that acts as Shogun's Decentralized Keeper
 
-This project demonstrates how to write a simple Acurast App that depends on modules other than Node.js or Acurast build-ins.
+This project acts as decentralized keeper for shogun game. It calls `tick_tick()` public entry function
 
 ## App Runtime Environment
 
