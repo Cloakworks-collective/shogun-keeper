@@ -1,7 +1,7 @@
 import { Account, Aptos, AptosConfig, Ed25519PrivateKey, Network } from "@aptos-labs/ts-sdk";
 
-const KEEPER_PK = '0xa953ef08e9a2bc62a61fb7f96eebb05091b50d966545ba993562dd0ce13d51a8';
-const WARLORD_ADDRESS = '0xba50f4b5a6b6d5dce1d181f957a13bb0e344bc71f83f496b461ba4340f749a6e';
+const KEEPER_PK = 'KEEPER_PRIVATE_KEY_HERE';
+const WARLORD_ADDRESS = '0xee1dada4f9bbce01099f0bf865475f3a273f63afb02e473005ef289ceed5c44c';
 
 declare const _STD_: any;
 
